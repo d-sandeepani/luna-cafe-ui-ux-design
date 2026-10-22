@@ -80,24 +80,21 @@ Visit Us → Contact
 ## Screenshots
 
 ### Design System
+![Design System](Portfolio-screenshot/Design%20ststem/01%20—%20Design%20System.png)
 
-![Design System](design/design-system.png)
+### Components
+![Components](Portfolio-screenshot/Design%20ststem/10%20—%20Components.png)
 
 ### Home — Desktop
-
-![Home Desktop](design/home-desktop.png)
+![Home Desktop](Portfolio-screenshot/02%20—%20Home%20Desktop.png)
 
 ### Home — Mobile
-
-![Home Mobile](design/home-mobile.png)
+![Home Mobile](Portfolio-screenshot/03%20—%20Home%20Mobile.png)
 
 ### Website Pages
-
-![Website Pages](design/about.png)
-
-![Menu](design/menu.png)
-
-![Contact](design/contact.png)
+![About Desktop](Portfolio-screenshot/04%20—%20About%20Desktop.png)
+![Menu Desktop](Portfolio-screenshot/06%20—%20Menu%20Desktop.png)
+![Contact Desktop](Portfolio-screenshot/08.Contact-Dekstop.png)
 
 ## Marketing Materials
 
